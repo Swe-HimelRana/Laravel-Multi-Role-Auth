@@ -14,13 +14,19 @@ Used Packages:
 
 ## How to start
 After clone this project run those command 
+Require Composer version: 2
 
 Give your database config to [.env]() Then
 
+<code>composer create-project himel/laravel-multi-role-auth</code>
+
 <code> composer install</code>
+<code> npm install </code>
+<code> npm run dev </code>
 <code> php artisan optimize:clear</code>
 <code> php artisan migrate:fresh --seed --seeder=PermissionSeeder</code>
 
+<code> Enjoy .. </code>
 ## Default Users
 Super admin: lsu@himelrana.com
 Password: @Pass123@su
