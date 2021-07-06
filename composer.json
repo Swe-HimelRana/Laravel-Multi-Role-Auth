@@ -1,8 +1,8 @@
 {
     "name": "himel/laravel-multi-role-auth",
     "type": "project",
-    "description": "The Laravel Framework.",
-    "keywords": ["framework", "laravel"],
+    "description": "I have developed this simple project for warking with laravel multi role authentication like (Super Admin, Admin, User).",
+    "keywords": ["framework", "laravel", "Laravel Muti Role", "Laravel Multi Auth", "Laravel Multi Permission", "Laravel Multiple user type", "Laravel Custom User Role", "Himel"],
     "version": "0.1.0",
     "license": "MIT",
     "require": {
